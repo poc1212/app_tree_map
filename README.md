@@ -31,6 +31,3 @@ Objective of the exercise: to analyze programming logic.
 # Author
 Patrick Corrêa
 
-# Linkedin
-https://www.linkedin.com/in/patrick-poc
-
